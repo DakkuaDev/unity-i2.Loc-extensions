@@ -72,6 +72,7 @@ Permisos de acceso a la hoja de cálculo si usas Google Sheets como fuente de CS
 🧩 Ejemplo de URL de Google Sheets
 
 Formato de ejemplo utilizado en el script:
+
 https://docs.google.com/spreadsheets/u/1/d/${id}/export?format=csv&id=${id}&gid=${gid}
 
 
